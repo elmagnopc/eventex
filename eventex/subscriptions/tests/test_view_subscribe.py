@@ -39,7 +39,7 @@ class SubscribeGet(TestCase):
         self.assertIsInstance(form, SubscriptionForm)
 
 
-class SubscribeInvalidPost(TestCase):
+class SubscribePostInvalid(TestCase):
     def setUp(self):
         self.resp = self.client.post('/inscricao/', {})
     def test_post(self):
