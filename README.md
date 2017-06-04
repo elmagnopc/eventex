@@ -1,6 +1,7 @@
 #Eventex
 
 Sistema de Eventos encomendado pela Morena
+[![Build Status](https://travis-ci.org/elmagnopc/eventex.svg?branch=master)](https://travis-ci.org/elmagnopc/eventex)
 
 ## Como Desenvolver?
 
